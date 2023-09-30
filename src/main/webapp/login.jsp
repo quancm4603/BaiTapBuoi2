@@ -8,12 +8,13 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Title</title>
+    <title>Login</title>
     <%@include file="header.jsp" %>
 </head>
 <body class="text-center d-flex justify-content-center">
 <form class="form-signin col-sm-3" method="post">
-    <h1 class="h3 mb-3 font-weight-normal">Please sign in</h1>
+    <h1 class="h1 mb-3 font-weight-normal">Please sign in</h1>
+    <h5 class="alert-danger text-danger">${status}</h5>
     <label for="inputUsername" class="sr-only">User_name</label>
     <input name="username" type="username" id="inputUsername" class="form-control" placeholder="User name" required autofocus>
     <label for="inputPassword" class="sr-only">Password</label>
