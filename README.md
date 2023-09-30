@@ -1,12 +1,12 @@
 # Project BaiTapBuoi2
 
 ## Tools and technologies used
-  JSP - Servlet 
-  IDE: IntelliJ
-  Server: Apache Tomcat 8
-  JDK: openJDK version 20
-  Version: Java EE 8
-  Database: MySql - MySql connector
+ - JSP - Servlet 
+ - IDE: IntelliJ
+ - Server: Apache Tomcat 8
+ - JDK: openJDK version 20
+ - Version: Java EE 8
+ - Database: MySql - MySql connector
 
 
   ```SQL
