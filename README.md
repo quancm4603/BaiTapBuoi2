@@ -21,7 +21,7 @@
           constraint userTbl_pk
             primary key (id)
         );
-
+```
   Update 5 users
   ![image](https://github.com/quancm4603/BaiTapBuoi2/assets/135806026/831d3aa9-9893-49f4-bc4b-27c6fefc6601)
 
