@@ -7,6 +7,7 @@
  - JDK: openJDK version 20
  - Version: Java EE 8
  - Database: MySql - MySql connector
+ - Front-end: HTML, CSS, JavaScript, BoostTrap
 
 
   ```SQL
