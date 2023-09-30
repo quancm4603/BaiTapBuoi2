@@ -1,8 +1,9 @@
 # Project BaiTapBuoi2
 
 ## Tools and technologies used
- - JSP - Servlet 
+ 
  - IDE: IntelliJ
+ - JSP - Servlet 
  - Server: Apache Tomcat 8
  - JDK: openJDK version 20
  - Version: Java EE 8
